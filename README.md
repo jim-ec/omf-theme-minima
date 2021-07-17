@@ -9,3 +9,16 @@
 Due to keeping process executings at a minimim, the prompt is very responsive.
 
 ![](figure00.png)
+
+## Installation
+
+```
+omf install git@github.com:Jim-Eckerlein/omf-theme-minima.git
+omf theme minima
+```
+
+Uninstall:
+
+```
+omf uninstall minima
+```
