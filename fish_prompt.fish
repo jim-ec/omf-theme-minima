@@ -22,7 +22,7 @@ function minima_pwd
     else
         set dir $PWD
     end
-    echo $dir | sed -E 's:^/Users/'$USER':~:'
+    echo $dir | sed -E 's:^'$HOME':~:'
 end
 
 function fish_prompt
