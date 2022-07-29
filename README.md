@@ -22,6 +22,6 @@ omf theme minima
 - **Prompt:** Red when last exit code was non-zero, green otherwise
 - **Path:** Relative to home or relative to repository root
 - Current Git branch
-- Striking responsiveness due to very few process executings per prompt
+- High responsiveness due to very few processes spawning per prompt
 
-![](figure00.png)
+![Figure](figure00.png)
