@@ -25,3 +25,17 @@ omf theme minima
 - High responsiveness due to very few processes spawning per prompt
 
 ![Figure](figure00.png)
+
+## Tips
+
+To disable the greeting displayed when launching the fish shell, amend the following instruction to `~/.config/fish/config.fish`:
+
+```fish
+set -U fish_greeting
+```
+To add to your path variable, use the `-a` option to append or `-p` to prepend:
+
+```fish
+set -a PATH ~/bin
+```
+
