@@ -13,7 +13,7 @@
 ## Install
 
 ```
-omf install git@github.com:Jim-Eckerlein/omf-theme-minima.git
+omf install git@github.com:jim-ec/omf-theme-minima.git
 omf theme minima
 ```
 
